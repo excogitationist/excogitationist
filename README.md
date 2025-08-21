@@ -2,7 +2,7 @@
 
 Excogitationist: one who invents through deep thought. I’m currently exploring Data Engineering Academy tutorials while strengthening skills in statistics, data science, and AI—transforming complexity into clarity.
 
-Here are some visualizations from [Tableau](https://public.tableau.com/app/profile/technopologist/vizzes).
+Here are some visualizations from [Tableau](https://public.tableau.com/app/profile/technopologist/vizzes). And add me to your [LinkedIn](https://www.linkedin.com/in/excogitationist/)!
 
 <!--
 **excogitationist/excogitationist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
