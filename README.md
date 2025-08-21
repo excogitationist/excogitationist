@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Learning is my engine: through Data Engineering Academy I’m mastering pipelines and models while exploring statistics, data science, and AI. I believe data should not just inform but inspire—enriching lives through clarity and intelligent design.
+Excogitationist: one who invents through deep thought. I’m currently exploring Data Engineering Academy tutorials while strengthening skills in statistics, data science, and AI—transforming complexity into clarity.
 
 <!--
 **excogitationist/excogitationist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
